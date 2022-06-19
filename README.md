@@ -1,5 +1,15 @@
 # Execution Time for Sort Methods in C++
 
+A simple project in c++ that generates arrays with random values and executes some sort methods counting the execution time in milliseconds. <br>
+
+**Sort methods executed in code:**<br>
+* Bubble Sort
+* Selection Sort
+* Insertion Sort
+* Merge Sort
+* Quick Sort
+* Heap Sort
+
 ## Build process in linux: 
 *(in windows i used CLion to run and test, but any other ide should work)*  <br> <br>
 
