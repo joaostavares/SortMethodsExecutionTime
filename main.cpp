@@ -16,7 +16,6 @@ int main() {
     cout << "*     ----------     *" << endl << endl << endl;
     while(siz <= 10000) {
         int *arr = randomizer(siz);
-        cout << endl;
         int *arrCopy = copier(arr, siz);
         auto start = high_resolution_clock::now();
         execBubbleSort(arrCopy, siz);
