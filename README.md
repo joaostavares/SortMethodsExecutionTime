@@ -54,4 +54,4 @@ then run:
 
 
 <br> <br>
-*Obs.: Main code was written to run fast and display the results, if you want longer tests you can change the value on line 17 of `main.cpp` but I really recommend you comment out lines 19 to 39 unless you wanna spend some hours running the less optimized methods.*
+*Obs.: Main code was written to run fast and display the results, if you want longer tests you can change the value on line 17 of `main.cpp` (remember to put a multiple of 10 in the value) but I really recommend you comment out lines 19 to 39 unless you wanna spend some hours running the less optimized methods.*
